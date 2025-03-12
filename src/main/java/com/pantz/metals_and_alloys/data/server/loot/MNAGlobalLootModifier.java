@@ -22,52 +22,52 @@ public class MNAGlobalLootModifier extends GlobalLootModifierProvider {
     protected void start() {
         add("add_metals_to_desert_pyramid", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/desert_pyramid")).build(),
-                LootItemRandomChanceCondition.randomChance(0.8f).build()
+                LootItemRandomChanceCondition.randomChance(0.45f).build()
         }, MNALootTables.MEDIUM_METALS));
         add("add_metals_to_jungle_temple", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/jungle_temple")).build(),
-                LootItemRandomChanceCondition.randomChance(0.7f).build()
+                LootItemRandomChanceCondition.randomChance(0.55f).build()
         }, MNALootTables.MEDIUM_METALS));
         add("add_metals_to_stronghold", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/stronghold_corridor")).build(),
-                LootItemRandomChanceCondition.randomChance(0.85f).build()
+                LootItemRandomChanceCondition.randomChance(0.6f).build()
         }, MNALootTables.SMALL_METALS));
         add("add_metals_to_shipwreck", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/shipwreck_supply")).build(),
-                LootItemRandomChanceCondition.randomChance(0.75f).build()
+                LootItemRandomChanceCondition.randomChance(0.7f).build()
         }, MNALootTables.LARGE_METALS));
         add("add_metals_to_underwater_ruin", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/underwater_ruin_small")).build(),
-                LootItemRandomChanceCondition.randomChance(0.7f).build()
+                LootItemRandomChanceCondition.randomChance(0.71f).build()
         }, MNALootTables.SMALL_METALS));
         add("add_metals_to_mineshaft", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/abandoned_mineshaft")).build(),
-                LootItemRandomChanceCondition.randomChance(0.65f).build()
+                LootItemRandomChanceCondition.randomChance(0.6f).build()
         }, MNALootTables.MEDIUM_METALS));
 
         add("add_bronze_to_underwater_ruin", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/underwater_ruin_big")).build(),
-                LootItemRandomChanceCondition.randomChance(0.5f).build()
+                LootItemRandomChanceCondition.randomChance(0.59f).build()
         }, MNALootTables.BRONZE));
 
         add("add_bronze_to_mineshaft", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/abandoned_mineshaft")).build(),
-                LootItemRandomChanceCondition.randomChance(0.557f).build()
+                LootItemRandomChanceCondition.randomChance(0.517f).build()
         }, MNALootTables.BRONZE));
 
         add("add_steel_to_stronghold", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/stronghold_corridor")).build(),
-                LootItemRandomChanceCondition.randomChance(0.8f).build()
+                LootItemRandomChanceCondition.randomChance(0.6f).build()
         }, MNALootTables.STEEL));
 
         add("add_steel_to_dungeon", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/simple_dungeon")).build(),
-                LootItemRandomChanceCondition.randomChance(0.8f).build()
+                LootItemRandomChanceCondition.randomChance(0.58f).build()
         }, MNALootTables.STEEL));
 
         add("add_horse_armor_to_dungeon", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/simple_dungeon")).build(),
-                LootItemRandomChanceCondition.randomChance(0.67f).build()
+                LootItemRandomChanceCondition.randomChance(0.567f).build()
         }, MNALootTables.HORSE_ARMOR));
 
         add("add_horse_armor_to_jungle_temple", new AddTableLootModifier(new LootItemCondition[]{
@@ -77,7 +77,7 @@ public class MNAGlobalLootModifier extends GlobalLootModifierProvider {
 
         add("add_horse_armor_to_desert_pyramid", new AddTableLootModifier(new LootItemCondition[]{
                 new LootTableIdCondition.Builder(ResourceLocation.parse("chests/desert_pyramid")).build(),
-                LootItemRandomChanceCondition.randomChance(0.77f).build()
+                LootItemRandomChanceCondition.randomChance(0.67f).build()
         }, MNALootTables.HORSE_ARMOR));
 
     }

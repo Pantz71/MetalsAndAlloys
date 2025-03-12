@@ -26,7 +26,7 @@ public record MNAChestLootTableProvider(HolderLookup.Provider provider) implemen
                 LootTable.lootTable()
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(UniformGenerator.between(0, 2))
+                                        .setRolls(UniformGenerator.between(0, 1))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_INGOT).setWeight(1)).apply(SetItemCountFunction.setCount(UniformGenerator.between(1, 3)))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_NUGGET).setWeight(3)).apply(SetItemCountFunction.setCount(UniformGenerator.between(2, 7)))
 
@@ -43,14 +43,14 @@ public record MNAChestLootTableProvider(HolderLookup.Provider provider) implemen
                 LootTable.lootTable()
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(UniformGenerator.between(1, 4))
+                                        .setRolls(UniformGenerator.between(0, 1))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_INGOT).setWeight(7)).apply(SetItemCountFunction.setCount(UniformGenerator.between(3, 5)))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_NUGGET).setWeight(6)).apply(SetItemCountFunction.setCount(UniformGenerator.between(3, 7)))
                                         .add(LootItem.lootTableItem(MNABlocks.TIN_BLOCK).setWeight(2)).apply(SetItemCountFunction.setCount(UniformGenerator.between(1, 3)))
                         )
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(ConstantValue.exactly(2))
+                                        .setRolls(ConstantValue.exactly(1))
                                         .add(LootItem.lootTableItem(MNAItems.MANGANESE_NUGGET).setWeight(8)).apply(SetItemCountFunction.setCount(UniformGenerator.between(2, 6)))
                                         .add(LootItem.lootTableItem(MNABlocks.MANGANESE_BLOCK).setWeight(2)).apply(SetItemCountFunction.setCount(UniformGenerator.between(0, 1)))
 
@@ -63,7 +63,7 @@ public record MNAChestLootTableProvider(HolderLookup.Provider provider) implemen
                 LootTable.lootTable()
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(UniformGenerator.between(1, 5))
+                                        .setRolls(UniformGenerator.between(0, 3))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_INGOT).setWeight(4)).apply(SetItemCountFunction.setCount(UniformGenerator.between(2, 4)))
                                         .add(LootItem.lootTableItem(MNAItems.TIN_NUGGET).setWeight(9)).apply(SetItemCountFunction.setCount(UniformGenerator.between(2, 6)))
                                         .add(LootItem.lootTableItem(MNABlocks.TIN_BLOCK).setWeight(1)).apply(SetItemCountFunction.setCount(UniformGenerator.between(1, 2)))
@@ -85,7 +85,7 @@ public record MNAChestLootTableProvider(HolderLookup.Provider provider) implemen
                 LootTable.lootTable()
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(ConstantValue.exactly(2))
+                                        .setRolls(ConstantValue.exactly(1))
                                         .add(LootItem.lootTableItem(MNAItems.BRONZE_INGOT).setWeight(4)).apply(SetItemCountFunction.setCount(UniformGenerator.between(0, 5)))
                                         .add(LootItem.lootTableItem(MNAItems.BRONZE_NUGGET).setWeight(7)).apply(SetItemCountFunction.setCount(UniformGenerator.between(1, 7)))
 
@@ -109,7 +109,7 @@ public record MNAChestLootTableProvider(HolderLookup.Provider provider) implemen
                 LootTable.lootTable()
                         .withPool(
                                 LootPool.lootPool()
-                                        .setRolls(UniformGenerator.between(0, 2))
+                                        .setRolls(ConstantValue.exactly(1))
                                         .add(LootItem.lootTableItem(MNAItems.COPPER_HORSE_ARMOR).setWeight(10)).apply(SetItemCountFunction.setCount(ConstantValue.exactly(1)))
                                         .add(LootItem.lootTableItem(MNAItems.BRONZE_HORSE_ARMOR).setWeight(10)).apply(SetItemCountFunction.setCount(ConstantValue.exactly(1)))
                                         .add(LootItem.lootTableItem(MNAItems.STEEL_HORSE_ARMOR).setWeight(10)).apply(SetItemCountFunction.setCount(ConstantValue.exactly(1)))
