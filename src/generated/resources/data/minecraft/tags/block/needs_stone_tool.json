@@ -1,0 +1,32 @@
+{
+  "values": [
+    "#c:ore_tin",
+    "#c:storage_blocks/raw_tin",
+    "#c:storage_blocks/tin",
+    "metals_and_alloys:iron_grate",
+    "metals_and_alloys:iron_plate_block",
+    "metals_and_alloys:iron_plate_stairs",
+    "metals_and_alloys:iron_plate_slab",
+    "metals_and_alloys:gold_chain",
+    "metals_and_alloys:copper_chain",
+    "metals_and_alloys:exposed_copper_chain",
+    "metals_and_alloys:weathered_copper_chain",
+    "metals_and_alloys:oxidized_copper_chain",
+    "metals_and_alloys:waxed_copper_chain",
+    "metals_and_alloys:waxed_exposed_copper_chain",
+    "metals_and_alloys:waxed_weathered_copper_chain",
+    "metals_and_alloys:waxed_oxidized_copper_chain",
+    "metals_and_alloys:cut_tin",
+    "metals_and_alloys:cut_tin_stairs",
+    "metals_and_alloys:cut_tin_slab",
+    "metals_and_alloys:tin_grate",
+    "metals_and_alloys:cut_bronze",
+    "metals_and_alloys:cut_tin_stairs",
+    "metals_and_alloys:cut_bronze_slab",
+    "metals_and_alloys:bronze_grate",
+    "metals_and_alloys:cut_manganese",
+    "metals_and_alloys:cut_manganese_stairs",
+    "metals_and_alloys:cut_manganese_slab",
+    "metals_and_alloys:manganese_grate"
+  ]
+}

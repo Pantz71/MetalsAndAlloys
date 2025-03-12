@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_cut_bronze": {
+      "conditions": {
+        "items": [
+          {
+            "items": "metals_and_alloys:cut_bronze"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "metals_and_alloys:cut_bronze_stairs_from_cut_bronze_stonecutting"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_cut_bronze"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "metals_and_alloys:cut_bronze_stairs_from_cut_bronze_stonecutting"
+    ]
+  }
+}

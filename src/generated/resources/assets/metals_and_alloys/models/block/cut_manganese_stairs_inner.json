@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "metals_and_alloys:block/cut_manganese",
+    "side": "metals_and_alloys:block/cut_manganese",
+    "top": "metals_and_alloys:block/cut_manganese"
+  }
+}

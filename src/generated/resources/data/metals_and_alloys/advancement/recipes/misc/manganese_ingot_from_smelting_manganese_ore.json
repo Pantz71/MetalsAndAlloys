@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_manganese_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "metals_and_alloys:manganese_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "metals_and_alloys:manganese_ingot_from_smelting_manganese_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_manganese_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "metals_and_alloys:manganese_ingot_from_smelting_manganese_ore"
+    ]
+  }
+}

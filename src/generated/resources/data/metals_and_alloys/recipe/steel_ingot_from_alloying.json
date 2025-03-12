@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "metals_and_alloys:pig_iron_ingot"
+    },
+    {
+      "item": "metals_and_alloys:pig_iron_ingot"
+    },
+    {
+      "item": "metals_and_alloys:pig_iron_ingot"
+    },
+    {
+      "item": "metals_and_alloys:pig_iron_ingot"
+    },
+    {
+      "item": "metals_and_alloys:manganese_ingot"
+    },
+    {
+      "item": "metals_and_alloys:manganese_ingot"
+    },
+    {
+      "item": "metals_and_alloys:manganese_ingot"
+    },
+    {
+      "item": "metals_and_alloys:manganese_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "metals_and_alloys:steel_ingot"
+  }
+}

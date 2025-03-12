@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "metals_and_alloys:block/bronze_block"
+  }
+}

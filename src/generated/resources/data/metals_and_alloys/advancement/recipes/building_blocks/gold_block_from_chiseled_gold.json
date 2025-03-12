@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chiseled_gold": {
+      "conditions": {
+        "items": [
+          {
+            "items": "metals_and_alloys:chiseled_gold"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "metals_and_alloys:gold_block_from_chiseled_gold"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chiseled_gold"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "metals_and_alloys:gold_block_from_chiseled_gold"
+    ]
+  }
+}

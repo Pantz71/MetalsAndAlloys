@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "minecraft:stone_button"
+    },
+    {
+      "item": "metals_and_alloys:bronze_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "metals_and_alloys:bronze_button"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "manganese",
+  "description": {
+    "color": "#E7B3E2",
+    "translate": "trim_material.metals_and_alloys.manganese"
+  },
+  "ingredient": "metals_and_alloys:manganese_ingot",
+  "item_model_index": 0.91
+}

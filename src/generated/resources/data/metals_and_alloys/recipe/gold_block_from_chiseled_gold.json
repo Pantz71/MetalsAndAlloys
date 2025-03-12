@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "metals_and_alloys:chiseled_gold"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:gold_block"
+  }
+}

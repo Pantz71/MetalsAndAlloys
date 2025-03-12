@@ -1,0 +1,18 @@
+{
+  "entries": [
+    "metals_and_alloys:add_metals_to_stronghold",
+    "metals_and_alloys:add_horse_armor_to_dungeon",
+    "metals_and_alloys:add_horse_armor_to_desert_pyramid",
+    "metals_and_alloys:add_metals_to_jungle_temple",
+    "metals_and_alloys:add_bronze_to_mineshaft",
+    "metals_and_alloys:add_metals_to_mineshaft",
+    "metals_and_alloys:add_metals_to_desert_pyramid",
+    "metals_and_alloys:add_steel_to_stronghold",
+    "metals_and_alloys:add_bronze_to_underwater_ruin",
+    "metals_and_alloys:add_metals_to_shipwreck",
+    "metals_and_alloys:add_metals_to_underwater_ruin",
+    "metals_and_alloys:add_steel_to_dungeon",
+    "metals_and_alloys:add_horse_armor_to_jungle_temple"
+  ],
+  "replace": false
+}

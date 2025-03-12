@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:iron_trapdoor",
+    "metals_and_alloys:gold_trapdoor",
+    "metals_and_alloys:tin_trapdoor",
+    "metals_and_alloys:bronze_trapdoor",
+    "metals_and_alloys:manganese_trapdoor",
+    "metals_and_alloys:steel_trapdoor"
+  ]
+}

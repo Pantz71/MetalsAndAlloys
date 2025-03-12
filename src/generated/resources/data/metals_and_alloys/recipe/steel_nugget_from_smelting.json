@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "metals_and_alloys:steel_pickaxe"
+    },
+    {
+      "item": "metals_and_alloys:steel_shovel"
+    },
+    {
+      "item": "metals_and_alloys:steel_axe"
+    },
+    {
+      "item": "metals_and_alloys:steel_hoe"
+    },
+    {
+      "item": "metals_and_alloys:steel_sword"
+    },
+    {
+      "item": "metals_and_alloys:steel_helmet"
+    },
+    {
+      "item": "metals_and_alloys:steel_chestplate"
+    },
+    {
+      "item": "metals_and_alloys:steel_leggings"
+    },
+    {
+      "item": "metals_and_alloys:steel_boots"
+    },
+    {
+      "item": "metals_and_alloys:steel_horse_armor"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "metals_and_alloys:steel_nugget"
+  }
+}

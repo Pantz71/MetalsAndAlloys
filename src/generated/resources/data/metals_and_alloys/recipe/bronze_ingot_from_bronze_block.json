@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "bronze_ingot",
+  "ingredients": [
+    {
+      "item": "metals_and_alloys:bronze_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "metals_and_alloys:bronze_ingot"
+  }
+}

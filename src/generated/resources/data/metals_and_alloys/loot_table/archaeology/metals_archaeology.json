@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:archaeology",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "metals_and_alloys:bronze_ingot",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "metals_and_alloys:tin_ingot",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "metals_and_alloys:manganese_ingot",
+          "weight": 2
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "metals_and_alloys:archaeology/metals_archaeology"
+}

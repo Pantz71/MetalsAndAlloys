@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "metals_and_alloys:raw_manganese_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "metals_and_alloys:raw_manganese"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "values": [
+    "metals_and_alloys:copper_helmet",
+    "metals_and_alloys:copper_chestplate",
+    "metals_and_alloys:copper_leggings",
+    "metals_and_alloys:copper_boots",
+    "metals_and_alloys:bronze_helmet",
+    "metals_and_alloys:bronze_chestplate",
+    "metals_and_alloys:bronze_leggings",
+    "metals_and_alloys:bronze_boots",
+    "metals_and_alloys:steel_helmet",
+    "metals_and_alloys:steel_chestplate",
+    "metals_and_alloys:steel_leggings",
+    "metals_and_alloys:steel_boots"
+  ]
+}

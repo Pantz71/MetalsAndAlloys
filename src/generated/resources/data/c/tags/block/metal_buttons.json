@@ -1,0 +1,18 @@
+{
+  "values": [
+    "metals_and_alloys:iron_button",
+    "metals_and_alloys:gold_button",
+    "metals_and_alloys:copper_button",
+    "metals_and_alloys:exposed_copper_button",
+    "metals_and_alloys:weathered_copper_button",
+    "metals_and_alloys:oxidized_copper_button",
+    "metals_and_alloys:waxed_copper_button",
+    "metals_and_alloys:waxed_exposed_copper_button",
+    "metals_and_alloys:waxed_weathered_copper_button",
+    "metals_and_alloys:waxed_oxidized_copper_button",
+    "metals_and_alloys:tin_button",
+    "metals_and_alloys:bronze_button",
+    "metals_and_alloys:manganese_button",
+    "metals_and_alloys:steel_button"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "pig_iron",
+  "description": {
+    "color": "#918591",
+    "translate": "trim_material.metals_and_alloys.pig_iron"
+  },
+  "ingredient": "metals_and_alloys:pig_iron_ingot",
+  "item_model_index": 0.22
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "metals_and_alloys:block/iron_plate_slab"
+    },
+    "type=double": {
+      "model": "metals_and_alloys:block/iron_plate_block"
+    },
+    "type=top": {
+      "model": "metals_and_alloys:block/iron_plate_slab_top"
+    }
+  }
+}

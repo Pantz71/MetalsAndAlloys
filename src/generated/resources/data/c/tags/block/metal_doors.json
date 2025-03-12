@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:iron_door",
+    "metals_and_alloys:gold_door",
+    "metals_and_alloys:tin_door",
+    "metals_and_alloys:bronze_door",
+    "metals_and_alloys:manganese_door",
+    "metals_and_alloys:steel_door"
+  ]
+}

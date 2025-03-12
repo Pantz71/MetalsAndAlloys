@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/chain",
+  "textures": {
+    "all": "metals_and_alloys:block/copper_chain",
+    "particle": "metals_and_alloys:block/copper_chain"
+  }
+}

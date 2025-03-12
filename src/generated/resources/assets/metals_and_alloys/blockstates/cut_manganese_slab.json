@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "metals_and_alloys:block/cut_manganese_slab"
+    },
+    "type=double": {
+      "model": "metals_and_alloys:block/cut_manganese"
+    },
+    "type=top": {
+      "model": "metals_and_alloys:block/cut_manganese_slab_top"
+    }
+  }
+}

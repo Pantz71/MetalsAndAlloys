@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "metals_and_alloys:block/steel_plate_block",
+    "side": "metals_and_alloys:block/steel_plate_block",
+    "top": "metals_and_alloys:block/steel_plate_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "tin",
+  "description": {
+    "color": "#C8D5DD",
+    "translate": "trim_material.metals_and_alloys.tin"
+  },
+  "ingredient": "metals_and_alloys:tin_ingot",
+  "item_model_index": 0.11
+}

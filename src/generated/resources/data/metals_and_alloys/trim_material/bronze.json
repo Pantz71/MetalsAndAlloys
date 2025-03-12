@@ -1,0 +1,12 @@
+{
+  "asset_name": "bronze",
+  "description": {
+    "color": "#C28540",
+    "translate": "trim_material.metals_and_alloys.bronze"
+  },
+  "ingredient": "metals_and_alloys:bronze_ingot",
+  "item_model_index": 0.51,
+  "override_armor_materials": {
+    "metals_and_alloys:bronze": "bronze_darker"
+  }
+}

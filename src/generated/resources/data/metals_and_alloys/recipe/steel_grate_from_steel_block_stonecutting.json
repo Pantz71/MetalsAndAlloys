@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "metals_and_alloys:steel_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "metals_and_alloys:steel_grate"
+  }
+}

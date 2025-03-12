@@ -1,0 +1,12 @@
+{
+  "asset_name": "steel",
+  "description": {
+    "color": "#4C4C4C",
+    "translate": "trim_material.metals_and_alloys.steel"
+  },
+  "ingredient": "metals_and_alloys:steel_ingot",
+  "item_model_index": 0.21,
+  "override_armor_materials": {
+    "metals_and_alloys:steel": "steel_darker"
+  }
+}

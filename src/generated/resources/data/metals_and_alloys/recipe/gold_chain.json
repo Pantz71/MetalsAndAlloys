@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "I": {
+      "item": "minecraft:gold_nugget"
+    },
+    "N": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "I",
+    "N",
+    "I"
+  ],
+  "result": {
+    "count": 1,
+    "id": "metals_and_alloys:gold_chain"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/iron_bars_side",
+  "textures": {
+    "bars": "metals_and_alloys:block/manganese_bars",
+    "edge": "metals_and_alloys:block/manganese_bars_edge",
+    "particle": "metals_and_alloys:block/manganese_bars"
+  }
+}

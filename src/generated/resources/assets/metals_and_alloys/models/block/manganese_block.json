@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "metals_and_alloys:block/manganese_block"
+  }
+}

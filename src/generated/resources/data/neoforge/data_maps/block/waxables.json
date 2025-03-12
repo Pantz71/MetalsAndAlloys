@@ -1,0 +1,52 @@
+{
+  "values": {
+    "metals_and_alloys:copper_bars": {
+      "waxed": "metals_and_alloys:waxed_copper_bars"
+    },
+    "metals_and_alloys:copper_button": {
+      "waxed": "metals_and_alloys:waxed_copper_button"
+    },
+    "metals_and_alloys:copper_chain": {
+      "waxed": "metals_and_alloys:waxed_copper_chain"
+    },
+    "metals_and_alloys:copper_pressure_plate": {
+      "waxed": "metals_and_alloys:waxed_copper_pressure_plate"
+    },
+    "metals_and_alloys:exposed_copper_bars": {
+      "waxed": "metals_and_alloys:waxed_exposed_copper_bars"
+    },
+    "metals_and_alloys:exposed_copper_button": {
+      "waxed": "metals_and_alloys:waxed_exposed_copper_button"
+    },
+    "metals_and_alloys:exposed_copper_chain": {
+      "waxed": "metals_and_alloys:waxed_exposed_copper_chain"
+    },
+    "metals_and_alloys:exposed_copper_pressure_plate": {
+      "waxed": "metals_and_alloys:waxed_exposed_copper_pressure_plate"
+    },
+    "metals_and_alloys:oxidized_copper_bars": {
+      "waxed": "metals_and_alloys:waxed_oxidized_copper_bars"
+    },
+    "metals_and_alloys:oxidized_copper_button": {
+      "waxed": "metals_and_alloys:waxed_oxidized_copper_button"
+    },
+    "metals_and_alloys:oxidized_copper_chain": {
+      "waxed": "metals_and_alloys:waxed_oxidized_copper_chain"
+    },
+    "metals_and_alloys:oxidized_copper_pressure_plate": {
+      "waxed": "metals_and_alloys:waxed_oxidized_copper_pressure_plate"
+    },
+    "metals_and_alloys:weathered_copper_bars": {
+      "waxed": "metals_and_alloys:waxed_weathered_copper_bars"
+    },
+    "metals_and_alloys:weathered_copper_button": {
+      "waxed": "metals_and_alloys:waxed_weathered_copper_button"
+    },
+    "metals_and_alloys:weathered_copper_chain": {
+      "waxed": "metals_and_alloys:waxed_weathered_copper_chain"
+    },
+    "metals_and_alloys:weathered_copper_pressure_plate": {
+      "waxed": "metals_and_alloys:waxed_weathered_copper_pressure_plate"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:chain",
+    "metals_and_alloys:gold_chain",
+    "metals_and_alloys:copper_chain",
+    "metals_and_alloys:exposed_copper_chain",
+    "metals_and_alloys:weathered_copper_chain",
+    "metals_and_alloys:oxidized_copper_chain",
+    "metals_and_alloys:waxed_copper_chain",
+    "metals_and_alloys:waxed_exposed_copper_chain",
+    "metals_and_alloys:waxed_weathered_copper_chain",
+    "metals_and_alloys:waxed_oxidized_copper_chain",
+    "metals_and_alloys:tin_chain",
+    "metals_and_alloys:bronze_chain",
+    "metals_and_alloys:manganese_chain",
+    "metals_and_alloys:steel_chain"
+  ]
+}

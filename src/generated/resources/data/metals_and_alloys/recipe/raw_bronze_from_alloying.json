@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "metals_and_alloys:raw_tin"
+    },
+    {
+      "item": "metals_and_alloys:raw_tin"
+    },
+    {
+      "item": "metals_and_alloys:raw_tin"
+    },
+    {
+      "item": "metals_and_alloys:raw_tin"
+    },
+    {
+      "item": "minecraft:raw_copper"
+    },
+    {
+      "item": "minecraft:raw_copper"
+    },
+    {
+      "item": "minecraft:raw_copper"
+    },
+    {
+      "item": "minecraft:raw_copper"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "metals_and_alloys:raw_bronze"
+  }
+}

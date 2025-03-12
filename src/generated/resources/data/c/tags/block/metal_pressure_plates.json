@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:light_weighted_pressure_plate",
+    "metals_and_alloys:copper_pressure_plate",
+    "metals_and_alloys:exposed_copper_pressure_plate",
+    "metals_and_alloys:weathered_copper_pressure_plate",
+    "metals_and_alloys:oxidized_copper_pressure_plate",
+    "metals_and_alloys:waxed_copper_pressure_plate",
+    "metals_and_alloys:waxed_exposed_copper_pressure_plate",
+    "metals_and_alloys:waxed_weathered_copper_pressure_plate",
+    "metals_and_alloys:waxed_oxidized_copper_pressure_plate",
+    "metals_and_alloys:tin_pressure_plate",
+    "metals_and_alloys:bronze_pressure_plate",
+    "metals_and_alloys:manganese_pressure_plate",
+    "metals_and_alloys:steel_pressure_plate"
+  ]
+}

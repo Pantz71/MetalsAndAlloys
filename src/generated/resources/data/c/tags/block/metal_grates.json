@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:copper_grate",
+    "minecraft:exposed_copper_grate",
+    "minecraft:weathered_copper_grate",
+    "minecraft:oxidized_copper_grate",
+    "minecraft:waxed_copper_grate",
+    "minecraft:waxed_exposed_copper_grate",
+    "minecraft:waxed_weathered_copper_grate",
+    "minecraft:waxed_oxidized_copper_grate",
+    "metals_and_alloys:iron_grate",
+    "metals_and_alloys:tin_grate",
+    "metals_and_alloys:bronze_grate",
+    "metals_and_alloys:manganese_grate",
+    "metals_and_alloys:steel_grate"
+  ]
+}
