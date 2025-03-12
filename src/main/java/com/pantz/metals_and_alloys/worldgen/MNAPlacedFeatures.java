@@ -29,11 +29,11 @@ public class MNAPlacedFeatures {
         Holder<ConfiguredFeature<?, ?>> manganeseOreSmall = configFeatures.getOrThrow(MNAConfiguredFeatures.ORE_MANGANESE_SMALL);
         Holder<ConfiguredFeature<?, ?>> manganeseOreLarge = configFeatures.getOrThrow(MNAConfiguredFeatures.ORE_MANGANESE_LARGE);
 
-        register(context, ORE_TIN, tinOreSmall, commonOrePlacement(10, HeightRangePlacement.triangle(VerticalAnchor.absolute(-20), VerticalAnchor.absolute(104))));
-        register(context, ORE_TIN_LARGE, tinOreLarge, commonOrePlacement(10, HeightRangePlacement.triangle(VerticalAnchor.absolute(-20), VerticalAnchor.absolute(104))));
+        register(context, ORE_TIN, tinOreSmall, commonOrePlacement(8, HeightRangePlacement.triangle(VerticalAnchor.absolute(-20), VerticalAnchor.absolute(104))));
+        register(context, ORE_TIN_LARGE, tinOreLarge, commonOrePlacement(6, HeightRangePlacement.triangle(VerticalAnchor.absolute(-20), VerticalAnchor.absolute(104))));
         register(context, ORE_TIN_EXTRA, tinOreLarge, commonOrePlacement(3, HeightRangePlacement.triangle(VerticalAnchor.absolute(-20), VerticalAnchor.absolute(104))));
-        register(context, ORE_MANGANESE, manganeseOreSmall, commonOrePlacement(7, HeightRangePlacement.triangle(VerticalAnchor.absolute(-55), VerticalAnchor.absolute(100))));
-        register(context, ORE_MANGANESE_LARGE, manganeseOreLarge, commonOrePlacement(9, HeightRangePlacement.triangle(VerticalAnchor.absolute(-55), VerticalAnchor.absolute(100))));
+        register(context, ORE_MANGANESE, manganeseOreSmall, commonOrePlacement(6, HeightRangePlacement.triangle(VerticalAnchor.absolute(-55), VerticalAnchor.absolute(90))));
+        register(context, ORE_MANGANESE_LARGE, manganeseOreLarge, commonOrePlacement(5, HeightRangePlacement.triangle(VerticalAnchor.absolute(-55), VerticalAnchor.absolute(90))));
 
     }
 

@@ -36,10 +36,10 @@ public class MNAConfiguredFeatures {
                 OreConfiguration.target(deepslateReplace, MNABlocks.DEEPSLATE_MANGANESE_ORE.get().defaultBlockState())
         );
 
-        register(context, ORE_TIN_SMALL, Feature.ORE, new OreConfiguration(tinList, 10));
-        register(context, ORE_TIN_LARGE, Feature.ORE, new OreConfiguration(tinList, 20));
-        register(context, ORE_MANGANESE_SMALL, Feature.ORE, new OreConfiguration(manganeseList, 7));
-        register(context, ORE_MANGANESE_LARGE, Feature.ORE, new OreConfiguration(manganeseList, 16));
+        register(context, ORE_TIN_SMALL, Feature.ORE, new OreConfiguration(tinList, 7));
+        register(context, ORE_TIN_LARGE, Feature.ORE, new OreConfiguration(tinList, 14));
+        register(context, ORE_MANGANESE_SMALL, Feature.ORE, new OreConfiguration(manganeseList, 4));
+        register(context, ORE_MANGANESE_LARGE, Feature.ORE, new OreConfiguration(manganeseList, 10));
     }
 
 
