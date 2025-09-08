@@ -26,10 +26,10 @@ public class MNABlockTagsProvider extends BlockTagsProvider {
     protected void addTags(HolderLookup.@NotNull Provider provider) {
         tag(BlockTags.MINEABLE_WITH_PICKAXE).addTag(Tags.Blocks.CHAINS).addTag(MNABlockTags.METAL_PRESSURE_PLATES).addTag(MNABlockTags.BARS).addTag(MNABlockTags.METAL_GRATES).addTag(MNABlockTags.METAL_DOORS).addTag(MNABlockTags.METAL_TRAPDOORS).addTag(MNABlockTags.METAL_BUTTONS)
                 .addTag(MNABlockTags.STORAGE_BLOCKS_RAW_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_RAW_BRONZE).addTag(MNABlockTags.STORAGE_BLOCKS_BRONZE).addTag(MNABlockTags.STORAGE_BLOCKS_RAW_MANGANESE).addTag(MNABlockTags.STORAGE_BLOCKS_MANGANESE)
-                .addTag(MNABlockTags.ORE_TIN).add(IRON_PLATE_BLOCK.get(), IRON_PLATE_STAIRS.get(), IRON_PLATE_SLAB.get(), CHISELED_GOLD.get(), CUT_TIN.get(), CUT_TIN_STAIRS.get(), CUT_TIN_SLAB.get(),
+                .addTag(MNABlockTags.ORE_TIN).addTag(MNABlockTags.ORE_MANGANESE).add(IRON_PLATE_BLOCK.get(), IRON_PLATE_STAIRS.get(), IRON_PLATE_SLAB.get(), CHISELED_GOLD.get(), CUT_TIN.get(), CUT_TIN_STAIRS.get(), CUT_TIN_SLAB.get(),
                         CUT_BRONZE.get(), CUT_TIN_STAIRS.get(), CUT_BRONZE_SLAB.get(), CUT_MANGANESE.get(), CUT_MANGANESE_STAIRS.get(), CUT_MANGANESE_SLAB.get(), STEEL_PLATE_BLOCK.get(), STEEL_PLATE_STAIRS.get(), STEEL_PLATE_SLAB.get());
 
-        tag(BlockTags.NEEDS_STONE_TOOL).addTag(MNABlockTags.ORE_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_RAW_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_TIN).add(IRON_GRATE.get(), IRON_PLATE_BLOCK.get(), IRON_PLATE_STAIRS.get(), IRON_PLATE_SLAB.get(), GOLD_CHAIN.get(),
+        tag(BlockTags.NEEDS_STONE_TOOL).addTag(MNABlockTags.ORE_TIN).addTag(MNABlockTags.ORE_MANGANESE).addTag(MNABlockTags.STORAGE_BLOCKS_RAW_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_TIN).addTag(MNABlockTags.STORAGE_BLOCKS_MANGANESE).addTag(MNABlockTags.STORAGE_BLOCKS_RAW_MANGANESE).add(IRON_GRATE.get(), IRON_PLATE_BLOCK.get(), IRON_PLATE_STAIRS.get(), IRON_PLATE_SLAB.get(), GOLD_CHAIN.get(),
                 COPPER_CHAIN.get(), EXPOSED_COPPER_CHAIN.get(), WEATHERED_COPPER_CHAIN.get(), OXIDIZED_COPPER_CHAIN.get(), WAXED_COPPER_CHAIN.get(), WAXED_EXPOSED_COPPER_CHAIN.get(), WAXED_WEATHERED_COPPER_CHAIN.get(), WAXED_OXIDIZED_COPPER_CHAIN.get(),
                 CUT_TIN.get(), CUT_TIN_STAIRS.get(), CUT_TIN_SLAB.get(), TIN_GRATE.get(), CUT_BRONZE.get(), CUT_TIN_STAIRS.get(), CUT_BRONZE_SLAB.get(), BRONZE_GRATE.get(), CUT_MANGANESE.get(), CUT_MANGANESE_STAIRS.get(), CUT_MANGANESE_SLAB.get(), MANGANESE_GRATE.get());
 
