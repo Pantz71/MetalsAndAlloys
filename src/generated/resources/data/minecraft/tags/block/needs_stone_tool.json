@@ -1,8 +1,11 @@
 {
   "values": [
     "#c:ore_tin",
+    "#c:ore_manganese",
     "#c:storage_blocks/raw_tin",
     "#c:storage_blocks/tin",
+    "#c:storage_blocks/manganese",
+    "#c:storage_blocks/raw_manganese",
     "metals_and_alloys:iron_grate",
     "metals_and_alloys:iron_plate_block",
     "metals_and_alloys:iron_plate_stairs",
